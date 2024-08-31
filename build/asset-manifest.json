@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.434bad4c.css",
-    "main.js": "/static/js/main.7bae4d90.js",
+    "main.css": "/static/css/main.3ab0c2bb.css",
+    "main.js": "/static/js/main.5b1212d2.js",
+    "static/media/coming-soon.jpg": "/static/media/coming-soon.f6f9f99f57670fad2b3a.jpg",
+    "static/media/My-Blog.png": "/static/media/My-Blog.ba579a1af506f373ab45.png",
     "static/media/Baltimore-Ravens-Wallpaper-NFL-2024.jpg": "/static/media/Baltimore-Ravens-Wallpaper-NFL-2024.db706513268219b0eb98.jpg",
+    "static/media/AvatarPic.jpg": "/static/media/AvatarPic.d7344fbe6e1836ff02c5.jpg",
+    "static/media/E-Commerce-Backend.png": "/static/media/E-Commerce-Backend.d543845814d873d00ecf.png",
+    "static/media/Weather-Dashboard.png": "/static/media/Weather-Dashboard.0d7eb0fcd1fa6936f8cb.png",
+    "static/media/Game-of-Zones.png": "/static/media/Game-of-Zones.bb3b9ebe6264e4c34c5e.png",
+    "static/media/Note-Taker.png": "/static/media/Note-Taker.6f6aeaf15b6799c98d26.png",
+    "static/media/Payroll-Tracker.png": "/static/media/Payroll-Tracker.9c9fe950665e5707dfcc.png",
     "index.html": "/index.html",
-    "main.434bad4c.css.map": "/static/css/main.434bad4c.css.map",
-    "main.7bae4d90.js.map": "/static/js/main.7bae4d90.js.map"
+    "main.3ab0c2bb.css.map": "/static/css/main.3ab0c2bb.css.map",
+    "main.5b1212d2.js.map": "/static/js/main.5b1212d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.434bad4c.css",
-    "static/js/main.7bae4d90.js"
+    "static/css/main.3ab0c2bb.css",
+    "static/js/main.5b1212d2.js"
   ]
 }
