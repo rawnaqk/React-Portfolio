@@ -24,6 +24,7 @@
   You have to navigate to the "About" section to view a recent picture of myself and a short description about my coding experience.
   In the "Project" section, you can click on the "Display" button to view the deployed applications as well as click on the "Github Repository" button to view their respective repository.
   From the "Contact" section, there is a fillable form to get in touch with me. Unfortunately, the submit button doesn't send anything yet it's still in production.
+  In the footer are Facebook, Github, and Linkedin icons, only the Github and Linkedin icons will route to my personal Github and Linkedin profiles.
   
   ## License
   This project is licensed under the MIT license.
