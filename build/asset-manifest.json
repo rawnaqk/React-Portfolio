@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.434bad4c.css",
+    "main.js": "/static/js/main.7bae4d90.js",
+    "static/media/Baltimore-Ravens-Wallpaper-NFL-2024.jpg": "/static/media/Baltimore-Ravens-Wallpaper-NFL-2024.db706513268219b0eb98.jpg",
+    "index.html": "/index.html",
+    "main.434bad4c.css.map": "/static/css/main.434bad4c.css.map",
+    "main.7bae4d90.js.map": "/static/js/main.7bae4d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434bad4c.css",
+    "static/js/main.7bae4d90.js"
+  ]
+}

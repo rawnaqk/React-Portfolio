@@ -1,6 +1,6 @@
-import "./FooterStyles.css"
-import React from 'react'
-import { FaFacebook, FaGithub, FaHome, FaLinkedin, FaMailBulk, FaPhone } from "react-icons/fa"
+import "./FooterStyles.css";
+import React from 'react';
+import { FaFacebook, FaGithub, FaHome, FaLinkedin, FaMailBulk, FaPhone } from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -23,12 +23,12 @@ const Footer = () => {
                 </div>
 
                 <div className="right">
-                    <h4>Rawnaq Kabairzad this is my Wonderful Portfolio</h4>
+                    <h4>This is My Wonderful Portfolio!</h4>
                     <p>I enjoy creating new projects and designing challenges.</p>
                     <div className="social">
                         <FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} />
-                        <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} />
-                        <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+                        <a href="https://github.com/rawnaqk" rel="GitHub"><FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                        <a href="https://www.linkedin.com/in/rawnaq-k" rel="Linkedin"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
                     </div>
                 </div>
             </div>
